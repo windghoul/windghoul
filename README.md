@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Github Stats 
+<div style="display: flex; flex-direction: row;">
+ <img style="height: auto; width: 48%;" align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=windghoul&show_icons=true&theme=onedark" />
+ <img style="height: auto; width: 40%;" align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windghoul&theme=radical&layout=compact" />
+</div>
